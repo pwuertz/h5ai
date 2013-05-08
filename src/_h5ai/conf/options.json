@@ -195,6 +195,15 @@ Options
 	},
 
 	/*
+	Preview for HDF files.
+	*/
+	"preview-hdf": {
+		"enabled": true,
+		"base_url": "/phys_qao/",
+		"webhdf_url": "/py/webhdf/webhdf.wsgi"
+	},
+
+	/*
 	Show an image preview on click.
 
 	- types: array of types

@@ -35,6 +35,7 @@ File types mapped to file extensions
 	"h":				[".h"],
 	"hpp":				[".hpp"],
 	"html":				[".htm", ".html", ".shtml"],
+	"hdf":				[".h5", ".hdf", ".hdf5"],
 	"ico":				[".ico"],
 	"image":			[".svg", ".xpm"],
 	"install":			["install"],
